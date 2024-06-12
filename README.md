@@ -1,6 +1,6 @@
-# sms-spam-detector
+# SMS Spam Detector
 
-Our advanced spam detection system leverages machine learning and natural language processing (NLP) techniques to accurately identify and filter out spam messages. By utilizing methods such as CountVectorizer and TF-IDF (Term Frequency-Inverse Document Frequency), the system converts text into numerical representations that capture the importance of words and their frequency of occurrence within the dataset.
+This advanced spam detection system leverages machine learning and natural language processing (NLP) techniques to accurately identify and filter out spam messages. By utilizing methods such as CountVectorizer and TF-IDF (Term Frequency-Inverse Document Frequency), the system converts text into numerical representations that capture the importance of words and their frequency of occurrence within the dataset.
 
 #### Key Features:
 
